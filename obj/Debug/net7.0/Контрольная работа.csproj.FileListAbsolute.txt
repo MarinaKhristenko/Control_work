@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Контрольная работа\obj\Debug\net7.0\Контрольная работа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Контрольная работа\obj\Debug\net7.0\Контрольная работа.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Контрольная работа\obj\Debug\net7.0\Контрольная работа.AssemblyInfo.cs
+C:\Users\User\Desktop\Контрольная работа\obj\Debug\net7.0\Контрольная работа.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Контрольная работа\bin\Debug\net7.0\Контрольная работа.exe
+C:\Users\User\Desktop\Контрольная работа\bin\Debug\net7.0\Контрольная работа.deps.json
+C:\Users\User\Desktop\Контрольная работа\bin\Debug\net7.0\Контрольная работа.runtimeconfig.json
+C:\Users\User\Desktop\Контрольная работа\bin\Debug\net7.0\Контрольная работа.dll
+C:\Users\User\Desktop\Контрольная работа\bin\Debug\net7.0\Контрольная работа.pdb
+C:\Users\User\Desktop\Контрольная работа\obj\Debug\net7.0\Контрольная работа.dll
+C:\Users\User\Desktop\Контрольная работа\obj\Debug\net7.0\refint\Контрольная работа.dll
+C:\Users\User\Desktop\Контрольная работа\obj\Debug\net7.0\Контрольная работа.pdb
+C:\Users\User\Desktop\Контрольная работа\obj\Debug\net7.0\Контрольная работа.genruntimeconfig.cache
+C:\Users\User\Desktop\Контрольная работа\obj\Debug\net7.0\ref\Контрольная работа.dll
